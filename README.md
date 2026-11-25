@@ -2,7 +2,7 @@
 
 In this project I put an **Apache load balancer** in front of three web servers. Visitors use one address, and the load balancer shares their requests between the three servers.
 
-This builds on [Project 7] (https://github.com/ejalonibudamilola/three-tier-project7-steghub), where I set up the web servers, the NFS server and the MySQL database.
+This builds on [Project 7](https://github.com/ejalonibudamilola/three-tier-project7-steghub), where I set up the web servers, the NFS server and the MySQL database.
 
 ## What is a load balancer?
 
